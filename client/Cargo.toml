@@ -6,7 +6,6 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-hello-world = { path = "../programs/hello-world"}
 solana-client = "1.18.12"
 solana-cli-config = "1.18.12"
 solana-clap-utils = "1.18.12"
